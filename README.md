@@ -1,1 +1,2 @@
-# Chinese-openstax-project
+# openstax-Chinese-translation
+
