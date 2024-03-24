@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d84ba01e17bcae93",
+            "id": "440d664043da120a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/openstax解剖书/骨骼系统/9.术语页.md",
+                "file": "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.0.小介绍.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5
   },
   "right": {
     "id": "6c95b90d0defb22a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/openstax解剖书/骨骼系统/9.术语页.md",
+                "file": "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.0.小介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/openstax解剖书/骨骼系统/9.术语页.md",
+                "file": "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.0.小介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/openstax解剖书/骨骼系统/9.术语页.md"
+                "file": "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.0.小介绍.md"
               }
             }
           }
@@ -146,33 +146,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d84ba01e17bcae93",
+  "active": "440d664043da120a",
   "lastOpenFiles": [
-    "inbox/openstax解剖书/骨骼系统/10.章节快速回顾.md",
-    "inbox/openstax解剖书/骨骼系统/9.术语页.md",
-    "inbox/openstax解剖书/骨骼系统/8.钙稳态：骨骼系统和其他器官系统的相互作用.md",
-    "inbox/openstax解剖书/骨骼系统/7.运动、营养、激素和骨组织.md",
-    "inbox/openstax解剖书/骨骼系统/6.骨折：骨修复.md",
-    "inbox/openstax解剖书/骨骼系统/5.骨骼形成和发育.md",
-    "inbox/openstax解剖书/骨骼系统/4.骨骼结构.md",
+    "inbox/openstax Anatomy and Physiology 2e/00.条款，介绍与操作基础/01.书籍介绍.md",
+    "inbox/openstax Anatomy and Physiology 2e/00.条款，介绍与操作基础/00.基础教学.md",
+    "inbox/openstax Anatomy and Physiology 2e/00.条款，介绍与操作基础/02.使用条款.md",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.0.小介绍.md",
+    "inbox/openstax Anatomy and Physiology 2e/7. 中轴骨/7.0.小介绍.md",
+    "inbox/openstax Anatomy and Physiology 2e/7. 中轴骨/7.1.骨骼系统的划分.md",
+    "attachment/Pasted image 20240324102556.png",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.2.骨骼分类.md",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.1.骨骼系统的功能.md",
+    "inbox/Welcome.md",
+    "Welcome.md",
+    "inbox/openstax Anatomy and Physiology 2e/00.条款，介绍与操作基础",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.3.骨骼结构.md",
+    "inbox/openstax Anatomy and Physiology 2e/7. 中轴骨",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.9.章节快速回顾.md",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.8.术语页.md",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.7.钙稳态：骨骼系统和其他器官系统的相互作用.md",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.6.运动、营养、激素和骨组织.md",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.5.骨折：骨修复.md",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统/6.4.骨骼形成和发育.md",
     "attachment/5dn2ztfo 1.png",
-    "inbox/openstax解剖书/骨骼系统/3.骨骼分类.md",
-    "inbox/openstax解剖书/骨骼系统/2.骨骼系统的功能.md",
-    "inbox/openstax解剖书/骨骼系统/1.小介绍.md",
     "attachment/365mb1cm.png",
     "attachment/Pasted image 20240314104401.png",
-    "inbox/00.基础教学.md",
     "attachment/d7hml0bo.png",
     "attachment/Pasted image 20240313171224.png",
     "attachment/fpmlct2l.png",
     "attachment/Pasted image 20240313094740.png",
     "attachment/auo3nuiw.png",
     "attachment/i385lvai.png",
-    "attachment/Pasted image 20240312233304.png",
     "inbox/胚胎学/01.受精.md",
     "inbox/胚胎学/02.骨骼发育.md",
-    "inbox/openstax解剖书/骨骼系统",
-    "inbox/openstax解剖书",
+    "inbox/openstax Anatomy and Physiology 2e/6. 骨骼系统",
+    "inbox/openstax Anatomy and Physiology 2e",
     "inbox/骨科/01.骨部分/02.颅骨发育（ninja nerd）.md",
     "inbox/胚胎学",
     "inbox/骨科/01.骨部分/02.颅骨形成.md",
@@ -183,8 +191,6 @@
     "inbox/骨科",
     "inbox/骨科/02.软骨部分",
     "inbox/骨科/01.骨部分",
-    "Welcome.md",
-    "attachment",
-    "inbox"
+    "attachment"
   ]
 }
